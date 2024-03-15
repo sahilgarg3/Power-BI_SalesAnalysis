@@ -15,3 +15,8 @@ Adventure Works Cycles is a global manufacturing company,to design and deliver a
 * Creating table relationships and data models
 * Create new calculated columns and DAX measures
 * Design an interactive report to analyze and visualize the data
+
+
+# Dashboard :octocat: :point_down:
+
+![image](https://github.com/sahilgarg3/Power-BI_SalesAnalysis/assets/79501547/a0d10f51-1347-496d-9b7b-50f8c816d846)
