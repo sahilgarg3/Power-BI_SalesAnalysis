@@ -1,9 +1,9 @@
 # Power-BI_SalesAnalysis
 
-![AdventaureWorks-Logo](https://github.com/sahilgarg3/Power-BI_SalesAnalysis/blob/base/AdventureWorks_Logo.png) 
+![AdventaureWorks-Logo](https://github.com/sahilgarg3/Power-BI_SalesAnalysis/blob/main/AdventureWorks_Logo.png) 
 
 
-# Adventure Works Sales Analysis
+# Sales Analysis Dashboard Development: Actionable Insights for Growth
 
 Adventure Works Cycles is a global manufacturing company,to design and deliver an end-to-end business intelligence solution. Adventure Works Cycles needs a way to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends and forecasts, and identify high-value customers.
 
